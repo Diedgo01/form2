@@ -1,0 +1,46 @@
+<resources>
+    <string name="nombre_de_tarea">Adaptadores on click</string>
+    <string name="materia">Aplicaciones moviles</string>
+    <string name="estado">activo</string>
+    <string name="tituloss">Tareas</string>
+    <string name="app_name">RecyclerAdaptador</string>
+
+    <string-array name="nombre_de_tarea">
+        <item>Adaptadores on click</item>
+        <item>Ecuaciones de dos variables</item>
+        <item>Sociedad y cultura parte 1</item>
+        <item>Filosofía de inteligencia artificial</item>
+        <item>Activity workshop</item>
+        <item>Cuestionario de física</item>
+        <item>Ley de Ohm</item>
+        <item>Ondas y calor</item>
+        <item>Diagrama de clases</item>
+        <item>Taller de diagrama</item>
+    </string-array>
+
+    <string-array name="materia">
+        <item>Aplicaciones móviles</item>
+        <item>Ecuación diferencial</item>
+        <item>Sociales</item>
+        <item>Fundamentos de inteligencia artificial</item>
+        <item>Inglés 5</item>
+        <item>Física mecánica</item>
+        <item>Física eléctrica</item>
+        <item>Termodinámica</item>
+        <item>Proceso de software</item>
+        <item>Proceso de software</item>
+    </string-array>
+
+    <string-array name="estado">
+        <item>Activo</item>
+        <item>Pendiente</item>
+        <item>Activo</item>
+        <item>Cerrado</item>
+        <item>Activo</item>
+        <item>Pendiente</item>
+        <item>Activo</item>
+        <item>Cerrado</item>
+        <item>Activo</item>
+        <item>Pendiente</item>
+    </string-array>
+</resources>
