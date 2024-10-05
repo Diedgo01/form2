@@ -21,7 +21,6 @@ public class item_detalles extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_item_detalles);
 
-        // Retrieve the data from the intent
         Intent intent = getIntent();
         String nombre = intent.getStringExtra("nombre");
         String categoria = intent.getStringExtra("categoria");
@@ -29,7 +28,7 @@ public class item_detalles extends AppCompatActivity {
         String imagen = intent.getStringExtra("imagen");
         String descripcion = intent.getStringExtra("descripcion");
 
-        // Find your views and set the data
+
         TextView txtNombre = findViewById(R.id.txt_nombre);
         TextView txtCategoria = findViewById(R.id.txt_categoria);
         TextView txtEstado = findViewById(R.id.txt_estado);
